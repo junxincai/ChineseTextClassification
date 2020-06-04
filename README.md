@@ -20,3 +20,6 @@
 ```
 python train.py
 ```
+
+## 流程图 ##
+![流程图](https://github.com/junxincai/ChineseTextClassification/blob/master/flow%20chart.jpg)
